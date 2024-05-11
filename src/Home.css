@@ -1,0 +1,10 @@
+/* src/Home.css */
+.home {
+    text-align: center;
+    margin-top: 100px; /* Ajusta el margen superior según sea necesario */
+  }
+  
+  .icon-container {
+    margin-top: 30px; /* Espacio entre el nombre y el icono */
+  }
+  
